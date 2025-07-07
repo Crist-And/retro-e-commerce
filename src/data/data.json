@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Cámara Fotos Zenit",
+    "image": "https://cdn.pixabay.com/photo/2015/11/21/15/29/camera-1055066_1280.jpg",
+    "description": "Clásica cámara analógica rusa, ideal para coleccionistas o amantes de la fotografía retro. Diseño robusto y mecánico con gran valor nostálgico.",
+    "price": "25",
+    "categorie": "fotografia",
+    "id": "1"
+  },
+  {
+    "name": "Mobylette vintage",
+    "image": "https://cdn.pixabay.com/photo/2023/10/02/16/09/bike-8289452_1280.jpg",
+    "description": "Ciclomotor clásico de los años 60-70, ideal para restaurar o coleccionar. Estilo retro, con detalles originales y mucho encanto.",
+    "price": 150,
+    "categorie": "vehiculo",
+    "id": "2"
+  },
+  {
+    "name": "Televisor retro Sharp",
+    "image": "https://cdn.pixabay.com/photo/2016/11/21/12/10/tv-1844964_1280.jpg",
+    "description": "Icónico televisor de los años 60 con patas altas y perillas manuales. Pieza de colección con estética vintage ideal para decoración o restauración.",
+    "price": 70,
+    "categorie": "tecnologia retro",
+    "id": "3"
+  },
+  {
+    "name": "Reloj despertador vintage de campana doble",
+    "image": "https://cdn.pixabay.com/photo/2017/10/16/19/07/retro-2858193_960_720.jpg",
+    "description": "Despertador de estilo retro con estructura metálica y números romanos. Ideal para decoración nostálgica o coleccionistas de objetos antiguos.",
+    "price": 42,
+    "categorie": "decoraciones retro",
+    "id": "4"
+  },
+  {
+    "name": "Camión de juguete metálico vintage",
+    "image": "https://cdn.pixabay.com/photo/2016/07/20/23/05/toy-1531536_1280.jpg",
+    "description": "Camión volquete de chapa color amarillo con detalles oxidados. Ideal para decoración retro, coleccionistas o amantes de juguetes antiguos con historia",
+    "price": 98,
+    "categorie": "juguetes retro",
+    "id": "5"
+  },
+  {
+    "name": "Teléfono de disco retro",
+    "image": "https://cdn.pixabay.com/photo/2018/08/09/10/46/telephone-3594206_1280.jpg",
+    "description": "Teléfono fijo antiguo con dial giratorio, en color negro. Pieza clásica que evoca elegancia y nostalgia. Ideal para decoración vintage, escenografía o coleccionistas.",
+    "price": 82,
+    "categorie": "tecnologia retro",
+    "id": "6"
+  },
+  {
+    "name": "Cámara instantánea Polaroid One600",
+    "image": "https://cdn.pixabay.com/photo/2021/02/13/19/20/camera-6012566_1280.jpg",
+    "description": "Clásica cámara Polaroid de disparo instantáneo. Modelo One600 con flash integrado y diseño plegable. Captura momentos al instante con un toque nostálgico. Ideal para decoración retro o para sumar estilo a tu set fotográfico",
+    "price": 8,
+    "categorie": "fotografia",
+    "id": "7"
+  },
+  {
+    "name": "Game Boy Color transparente + 3 cartuchos",
+    "image": "https://cdn.pixabay.com/photo/2018/09/12/15/41/gameboy-3672462_1280.jpg",
+    "description": "Consola Nintendo Game Boy Color edición Clear (transparente) + cartuchos clásicos: Tetris, Donkey Kong Land y Pokémon Amarillo. Ideal para coleccionistas o para revivir la magia retro portátil de los 90. Estado general muy bueno, ¡una joyita vintage!",
+    "price": 50,
+    "categorie": "juguetes retro",
+    "id": "8"
+  },
+  {
+    "name": "Cuenco Vintage",
+    "image": "https://cdn.pixabay.com/photo/2017/06/01/18/43/bowl-2364207_1280.jpg",
+    "description": "Un clásico atemporal para tu hogar. Este bowl de madera vintage combina funcionalidad y estilo rústico, aportando calidez y carácter a cualquier ambiente.",
+    "price": 49,
+    "categorie": "decoraciones retro",
+    "id": "9"
+  },
+  {
+    "name": "Walkman Retro Portátil",
+    "image": "https://cdn.pixabay.com/photo/2018/01/27/18/45/wallkman-3111922_1280.jpg",
+    "description": "Disfrutá tu música en cualquier lugar con este clásico reproductor de casetes, diseño compacto y estilo vintage. Ideal para amantes del sonido analógico.",
+    "price": 63,
+    "categorie": "tecnologia retro",
+    "id": "10"
+  },
+  {
+    "name": "Teléfono a Disco Clásico",
+    "image": "https://cdn.pixabay.com/photo/2022/08/03/16/06/retro-phone-7362942_1280.jpg",
+    "description": "Revive la época vintage con este teléfono de disco, diseño auténtico y funcionalidad tradicional. Ideal para decoración o para quienes disfrutan lo retro.",
+    "price": 44,
+    "categorie": "tecnologia retro",
+    "id": "11"
+  },
+  {
+    "name": "Lámpara Vintage",
+    "image": "https://cdn.pixabay.com/photo/2017/09/04/02/50/lamp-2712836_1280.jpg",
+    "description": "Dale estilo y calidez a tu ambiente con esta lámpara antigua. Perfecta para crear un espacio acogedor con un toque clásico y auténtico.",
+    "price": 97,
+    "categorie": "iluminacion",
+    "id": "12"
+  },
+  {
+    "name": "Televisor Vintage",
+    "image": "https://cdn.pixabay.com/photo/2016/09/02/13/48/tv-1639240_1280.jpg",
+    "description": "Clásico televisor retro, ideal para ambientación vintage o coleccionistas.",
+    "price": 55,
+    "categorie": "tecnologia retro",
+    "id": "13"
+  },
+  {
+    "name": "Radio Transistor Retro",
+    "image": "https://cdn.pixabay.com/photo/2015/11/26/21/16/transistor-1064568_1280.jpg",
+    "description": "Portátil y funcional, con estética ochentosa perfecta para la mesa.",
+    "price": 30,
+    "categorie": "tecnologia retro",
+    "id": "14"
+  },
+  {
+    "name": "Teléfono Rotary Vintage",
+    "image": "https://cdn.pixabay.com/photo/2014/06/29/15/35/antique-telephone-379563_1280.jpg",
+    "description": "Teléfono a disco auténtico, funcional y decorativo.",
+    "price": 40,
+    "categorie": "tecnologia retro",
+    "id": "15"
+  },
+  {
+    "name": "Gameboy Clásico",
+    "image": "https://cdn.pixabay.com/photo/2020/11/19/19/14/gameboy-5759550_960_720.jpg",
+    "description": "Consola portátil de los 90, ideal para jugadores nostálgicos.",
+    "price": 45,
+    "categorie": "juguetes retro",
+    "id": "16"
+  },
+  {
+    "name": "Robot de Juguete Vintage",
+    "image": "https://cdn.pixabay.com/photo/2019/12/27/05/26/christmas-stocking-4721704_1280.jpg",
+    "description": "Figura metálica clásica para coleccionistas y amantes del diseño retro.",
+    "price": 35,
+    "categorie": "juguetes retro",
+    "id": "17"
+  },
+  {
+    "name": "Cuadro Decorativo Retro",
+    "image": "https://cdn.pixabay.com/photo/2015/07/12/19/26/pictures-842343_1280.jpg",
+    "description": "Arte de pared con estética retroindustrial para decoraciones vintage.",
+    "price": 25,
+    "categorie": "decoraciones retro",
+    "id": "18"
+  },
+  {
+    "name": "Lámpara Colgante Vintage",
+    "image": "https://cdn.pixabay.com/photo/2021/08/13/17/40/kerosene-lamp-6543611_1280.jpg",
+    "description": "Lámpara colgante de estilo retro, aporta calidez y personalidad.",
+    "price": 60,
+    "categorie": "decoraciones retro",
+    "id": "19"
+  },
+  {
+    "name": "Discos de Vinilo",
+    "image": "https://cdn.pixabay.com/photo/2017/06/12/22/24/vinyl-2397021_1280.jpg",
+    "description": "Disco de vinilo clásico convertido en pieza decorativa mural.",
+    "price": 20,
+    "categorie": "decoraciones retro",
+    "id": "20"
+  },
+  {
+    "name": "Joystick Atari",
+    "image": "https://cdn.pixabay.com/photo/2018/05/19/15/53/atari-3413722_1280.png",
+    "description": "Clásico mando de Atari, ícono gamer de los 80.",
+    "price": 28,
+    "categorie": "tecnologia retro",
+    "id": "21"
+  },
+  {
+    "name": "Muñeca Retro de Porcelana",
+    "image": "https://cdn.pixabay.com/photo/2017/10/19/04/49/doll-2866471_1280.jpg",
+    "description": "Muñeca antigua ideal para decoración o colección.",
+    "price": 35,
+    "categorie": "juguetes retro",
+    "id": "22"
+  },
+  {
+    "name": "Libros antiguos",
+    "image": "https://cdn.pixabay.com/photo/2019/06/29/05/42/books-4305459_1280.jpg",
+    "description": "Ejemplares antiguos con encanto único, ideales para decoración o coleccionistas.",
+    "price": 22,
+    "categorie": "decoraciones retro",
+    "id": "23"
+  },
+  {
+    "name": "Reproductor de Cassettes",
+    "image": "https://cdn.pixabay.com/photo/2016/11/18/18/30/cassette-player-1836298_1280.jpg",
+    "description": "Walkman funcional, revive tus cintas favoritas.",
+    "price": 40,
+    "categorie": "tecnologia retro",
+    "id": "24"
+  },
+  {
+    "name": "Auto de Juguete Metálico",
+    "image": "https://cdn.pixabay.com/photo/2016/10/20/06/00/fiat-1754723_1280.jpg",
+    "description": "Coche retro de colección, ideal para vitrinas.",
+    "price": 18,
+    "categorie": "juguetes retro",
+    "id": "25"
+  },
+  {
+    "name": "Afiche de Cine Retro",
+    "image": "https://cdn.pixabay.com/photo/2015/10/18/21/23/bollywood-posters-995224_1280.jpg",
+    "description": "Póster clásico para amantes del cine antiguo.",
+    "price": 26,
+    "categorie": "decoraciones retro",
+    "id": "26"
+  },
+  {
+    "name": "Cámara Súper 8",
+    "image": "https://cdn.pixabay.com/photo/2018/04/29/17/55/camera-3360661_1280.jpg",
+    "description": "Cámara antigua de cine, pieza para exposición.",
+    "price": 50,
+    "categorie": "tecnologia retro",
+    "id": "27"
+  }
+]
